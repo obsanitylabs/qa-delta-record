@@ -1,0 +1,11 @@
+{
+  "sha": "39071495728f47f7d478e28732895344faeb1223",
+  "delta": "OBS-839",
+  "verdict": "PASS",
+  "base": "58f65f70503b2bbadbe7cb975ac8d0c630b67ba7",
+  "scope": "CI-only: .github/workflows/drift-monitor.yml (modified), .github/workflows/main-tip-guard.yml (added). No product code.",
+  "tag": "v0.2",
+  "published_by": "obsanitylabs (QA-side)",
+  "published_at": "2026-11-05T08:22:00Z",
+  "notes": "QA delta verdict for the DraftCrypto release line (R1 of the OBS-833 audit ruling). Corroborated by an independent PASS at OBS-852. Records only SHAs, delta ids, timestamps and scope - no secrets."
+}
